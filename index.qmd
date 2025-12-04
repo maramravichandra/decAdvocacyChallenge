@@ -167,9 +167,12 @@ Based on the data, here’s a clear plan for Patrick:
     *   **Shop 3:** You can be pretty sure your time here doesn't add much value from a productivity standpoint. The impact is somewhere between **-0.3 and 6 cars**, meaning it's possible it has no effect, or even a slightly negative one on some days.
 
 **What could go wrong? (Our Assumptions):**
-    *   We're assuming the main reason for the productivity boost is your presence. Other factors could be at play.
-    *   We're assuming that each car fixed brings in $100. If that number changes, the revenue impact will change too.
-    *   We're assuming past performance will continue. New mechanics, equipment, or other changes could affect these patterns.
+    
+   * We're assuming the main reason for the productivity boost is your presence. Other factors could be at play.
+    
+   *   We're assuming that each car fixed brings in $100. If that number changes, the revenue impact will change too.
+    
+   *   We're assuming past performance will continue. New mechanics, equipment, or other changes could affect these patterns.
 
 **What does the future look like?**
 
